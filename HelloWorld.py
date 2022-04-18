@@ -1,5 +1,7 @@
 print("ET0735 - DevOps")
 
-print("hello")
+print("test1")
 
-print("haha")
+print("test2")
+
+print("test3")
